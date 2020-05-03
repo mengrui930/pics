@@ -1,5 +1,5 @@
 Picture search project
 
-Searching pictures
-React
-Google API
+- Searching pictures
+- React
+- Google API
